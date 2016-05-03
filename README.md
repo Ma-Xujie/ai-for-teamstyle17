@@ -1,0 +1,3 @@
+# PatchouliGo - AI For Teamstyle 17
+
+代码里的参数是随意写的，代码风格比较糟糕，望轻喷...
